@@ -987,7 +987,12 @@ h1,h2,p {padding: 0 5%;}
   transition: 0.3s ease-in-out;
   border-bottom: #00458f solid 2px;
 }
-
+.icon{
+          font-family:"Montserrat", sans-serif;
+          font-weight:500;
+          color: #003165;
+          padding: 10px 15px;
+}
 #why-us .card .readmore:hover {
   border-bottom: #fff solid 2px;
 }
